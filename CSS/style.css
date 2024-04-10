@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    height: 100vh;
+    padding: 10px;
+    margin: 0;
+}
+
+.resume{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.anki{
+    font-family: fantasy;
+}
